@@ -1,0 +1,21 @@
+# A theme plugin is data only: no `wasm`, no capabilities, nothing to compile.
+id = "rhombicdodecahedron.doppler"
+name = "Doppler"
+version = "0.1.0"
+description = "Two dark themes on black, shifted red and blue: Crimson Cobalt (balanced crimson and electric blue) and Neon Siren (saturated red-pink and cyan)."
+authors = ["Rhombicosidodecahedron"]
+homepage = "https://github.com/Rhombicdodecahedron/openidea-doppler"
+license = "MIT"
+change-notes = "0.1.0: first release, with Crimson Cobalt and Neon Siren."
+categories = ["themes"]
+icon = "icon.svg"
+# `icon` needs plugin API 1.2 or later.
+engines.openidea = "^1.2"
+
+[[contributes.themes]]
+path = "themes/crimson-cobalt.theme.json"
+editor-scheme = "themes/crimson-cobalt.scheme.json"
+
+[[contributes.themes]]
+path = "themes/neon-siren.theme.json"
+editor-scheme = "themes/neon-siren.scheme.json"

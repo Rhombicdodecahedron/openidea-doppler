@@ -1,0 +1,6 @@
+# Publisher signing key: never commit it
+*.key
+# Built packages go to GitHub releases, not the repo
+*.oiplugin
+dist/
+.DS_Store
