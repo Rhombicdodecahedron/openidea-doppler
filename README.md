@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Doppler: two dark themes for OpenIDEA, shifted red and blue" width="100%">
+  <img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/assets/banner.png" alt="Doppler: two dark themes for OpenIDEA, shifted red and blue" width="100%">
 </p>
 
 <p align="center">
-  <img src="icon.svg" width="28" alt="" align="absmiddle">&nbsp;
+  <img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/icon.svg" width="28" alt="" align="absmiddle">&nbsp;
   <b>Doppler</b> for <a href="https://github.com/l0ng-ai/openidea">OpenIDEA</a>
   &nbsp;·&nbsp; <a href="#install">Install</a>
   &nbsp;·&nbsp; <a href="#crimson-cobalt">Crimson Cobalt</a>
@@ -23,7 +23,7 @@ The plugin is data only: no code, no WebAssembly and no permissions.
 The balanced one. Near-black surfaces, a crimson accent for the UI and
 keywords, and electric blue for functions and types. It works for long days.
 
-<img src="assets/crimson-cobalt.png" alt="Crimson Cobalt in OpenIDEA" width="100%">
+<img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/assets/crimson-cobalt.png" alt="Crimson Cobalt in OpenIDEA" width="100%">
 
 | Role | Colour |
 | --- | --- |
@@ -41,7 +41,7 @@ keywords, and electric blue for functions and types. It works for long days.
 The loud one. Pure black, a hot red-pink and a cyan-blue at full saturation,
 with a cyan caret. It suits night sessions and screenshots.
 
-<img src="assets/neon-siren.png" alt="Neon Siren in OpenIDEA" width="100%">
+<img src="https://raw.githubusercontent.com/Rhombicdodecahedron/openidea-doppler/main/assets/neon-siren.png" alt="Neon Siren in OpenIDEA" width="100%">
 
 | Role | Colour |
 | --- | --- |
@@ -101,5 +101,5 @@ value. To iterate, link the folder with `openidea-plugin link` and press
 
 ## Licence
 
-[MIT](LICENSE). The file layout follows OpenIDEA's Harbor Night template
+[MIT](https://github.com/Rhombicdodecahedron/openidea-doppler/blob/main/LICENSE). The file layout follows OpenIDEA's Harbor Night template
 (Apache-2.0).
